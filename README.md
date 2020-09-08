@@ -1,1 +1,1 @@
-# AWSAmplifyWorkshop
+# Branch for the Workshop
